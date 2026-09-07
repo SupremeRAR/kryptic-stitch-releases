@@ -1,6 +1,7 @@
-# Kryptic Stitch v1.0.0
+# Kryptic Stitch v1.0.1
 
-Initial Windows customer release with automatic-update metadata.
+Restores the stable pre-optimization Photoshop embroidery engine and fixes the
+focused-card layout when Windows reduced-motion mode is enabled.
 
 This release repository contains packaged distribution files only. The private
 application source, owner credentials, and administrative tooling are not included.
