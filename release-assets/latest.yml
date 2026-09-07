@@ -1,8 +1,8 @@
-version: 1.0.1
+version: 1.0.2
 files:
-  - url: Kryptic-Stitch-Setup-1.0.1.exe
-    sha512: I8PPCaDxv6I9A2uY0KuSHdaIRPsJ4N59Mndd0i82IHjcGfNT2SeFyLNkVLD+rXMn1WiHevAfxHAfNkzIhY+qEA==
-    size: 85034975
-path: Kryptic-Stitch-Setup-1.0.1.exe
-sha512: I8PPCaDxv6I9A2uY0KuSHdaIRPsJ4N59Mndd0i82IHjcGfNT2SeFyLNkVLD+rXMn1WiHevAfxHAfNkzIhY+qEA==
-releaseDate: '2026-09-07T18:12:16.467Z'
+  - url: Kryptic-Stitch-Setup-1.0.2.exe
+    sha512: 8F2NL7rZhvIZwpC4dQDr19H6i1muoLzlvQ68TQ6HZOMV9HXCka03i9Fh2iqyYa+NTuwb+ujeH5XH40v59y73Nw==
+    size: 85035408
+path: Kryptic-Stitch-Setup-1.0.2.exe
+sha512: 8F2NL7rZhvIZwpC4dQDr19H6i1muoLzlvQ68TQ6HZOMV9HXCka03i9Fh2iqyYa+NTuwb+ujeH5XH40v59y73Nw==
+releaseDate: '2026-09-07T18:45:33.901Z'
